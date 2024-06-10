@@ -1,0 +1,75 @@
+Here's a condensed and intensive two-week timetable to help you cover the essential topics for the CNSP exam:
+Week 1
+
+Day 1: TCP/IP and Networking Basics
+
+    Study OSI layers.
+    Review IPv4 and IPv6 addressing.
+    Learn about routers, switches, and hubs.
+
+Day 2: Network Discovery and Mapping
+
+    Learn network discovery protocols.
+    Practice network mapping techniques.
+
+Day 3: Network Scanning & Fingerprinting
+
+    Use tools like Nmap and Wireshark.
+    Practice scanning and fingerprinting different network devices.
+
+Day 4: Cryptography
+
+    Study basic cryptographic principles.
+    Learn about encryption methods and key management.
+
+Day 5: Active Directory and OS Security
+
+    Understand the basics of Active Directory security.
+    Review Linux and Windows security best practices.
+
+Day 6: Vulnerability Assessment and Network Services Testing
+
+    Learn about common vulnerabilities affecting network services.
+    Practice testing network services for security flaws.
+
+Day 7: Web Server Security and Malware Analysis
+
+    Study web server security practices.
+    Learn basic techniques for malware analysis.
+
+Week 2
+
+Day 8: Social Engineering and OSINT
+
+    Understand different types of social engineering attacks.
+    Practice Open-Source Intelligence Gathering (OSINT) techniques.
+
+Day 9: Network Security Tools
+
+    Get hands-on with tools like Snort, Metasploit, and Burp Suite.
+    Practice using these tools in various scenarios.
+
+Day 10: Database Security and TLS
+
+    Study the basics of database security.
+    Learn about TLS security and its implementation.
+
+Day 11: Password Storage and Management
+
+    Review best practices for storing and managing passwords securely.
+    Understand different methods of password hashing.
+
+Day 12: Command Line Operations
+
+    Practice important commands for both Windows and Unix-based systems.
+    Focus on commands related to network security and administration.
+
+Day 13: Review Key Concepts
+
+    Go over all the major topics covered.
+    Focus on areas where you feel less confident.
+
+Day 14: Practice Exams and Final Review
+
+    Take full-length practice exams to simulate the test environment.
+    Review any incorrect answers and understand the reasoning behind the correct ones.
